@@ -1,0 +1,18 @@
+ .panda_color{
+background: #FEEAE9 !important;
+}
+.categories .watch{
+    
+    background: #FFA500 !important;
+}
+.categories .shoe{
+    
+    background: #0000FF !important;
+}
+.categories .bag{
+    /* background: #FF9C35; */
+    background: #DA70D6 !important;
+}
+#get_in_touch {
+    height: 300px;
+}
